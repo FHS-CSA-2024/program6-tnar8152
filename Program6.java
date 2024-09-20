@@ -1,5 +1,5 @@
 //import stuff here!
-
+import java.util.Scanner;
 //Your code here
  class Program6 {
 
